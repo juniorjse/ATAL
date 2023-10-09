@@ -3,21 +3,18 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   background-color: #ffffff;
-
   color: #171717;
-  
 }
 
 .chat-container {
   display: flex;
   flex-direction: column;
   background-color: #f5f5f51d;
-
   align-items: center;
   justify-content: center;
   height: 100vh;
   max-width: 500px;
-  margin: 0 auto; /* Centralizar horizontalmente */
+  margin: 0 auto;
 }
 
 .navbar {
@@ -27,52 +24,49 @@ body {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #ffffff; /* Cor de fundo da navbar */
-  color: #553c3c; /* Cor do texto da navbar */
-  padding: 10px; /* Espaçamento interno da navbar */
-  z-index: 1; /* Garante que a navbar esteja na parte superior */
+  background-color: #ffffff;
+  color: #553c3c;
+  padding: 10px;
+  z-index: 1;
 }
 
 .navbar a {
   text-decoration: none;
-  color: #020202; /* Cor dos links da navbar */
-  margin-right: 15px; /* Espaçamento entre os links */
+  color: #020202;
+  margin-right: 15px;
   font-size: 20px;
   margin-left: -10px;
 }
 
 .chat {
   max-width: 450px;
-  min-height: 91%; /* Altura mínima de 90% da tela */
+  min-height: 91%;
   width: 80%;
   position: fixed;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  justify-content: flex-end; /* Alinhe as mensagens na parte inferior do container */
-  flex-direction: column-reverse; /* Inverta a ordem das mensagens */
-  max-height: 400px; /* Defina uma altura máxima para o chat */
-  overflow-y: auto; /* Adicione uma barra de rolagem vertical quando necessário */
+  justify-content: flex-end;
+  flex-direction: column-reverse;
+  max-height: 400px;
+  overflow-y: auto;
   margin-top: 30px;
 }
 
-
 .chat:before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  backdrop-filter: blur(70px); /* Ajuste o valor de desfoque conforme desejado */
+  backdrop-filter: blur(70px);
   pointer-events: none;
   z-index: -1;
 }
 
-/* Adicione uma classe para quando o scroll é necessário */
 .scrollable {
-  overflow-y: auto; /* Adicione uma barra de rolagem vertical quando houver muitas mensagens */
-
+  overflow-y: auto;
 }
 
 .chat::-webkit-scrollbar {
@@ -87,7 +81,7 @@ body {
   background-color: transparent;
 }
 
-.message-box{
+.message-box {
   margin: 15px 10px 10px 10px;
   border-radius: 10px;
   padding: 2px;
@@ -95,14 +89,14 @@ body {
 .message-bot {
   box-shadow: inset 0px -4px 6px rgba(0, 0, 0, 0.152);
   border-radius: 20px 20px 0px 20px;
-  background-color: #B64242;
-  color: #FFFFFF;
+  background-color: #b64242;
+  color: #ffffff;
   align-self: flex-end;
   text-align: right;
   clear: both;
-  word-wrap: break-word; /* Quebra de palavras para texto longo */
+  word-wrap: break-word;
   max-width: 70%;
-  margin-left: auto; /* Movendo o message-bot para a direita */
+  margin-left: auto;
 }
 
 .message-client {
@@ -110,25 +104,24 @@ body {
   border-radius: 20px 20px 20px 0px;
   align-self: flex-start;
   text-align: left;
-  clear: both; /* Adicione esta propriedade para evitar sobreposição */
+  clear: both;
   max-width: 70%;
-  background-color: #F2F2F2;
-
+  background-color: #f2f2f2;
 }
 
 .input-bar {
-  box-shadow: 0px -1px 6px rgba(0, 0, 0, 0.1), inset 0px -4px 6px rgba(0, 0, 0, 0.042); /* Sombra na parte inferior */
-
+  box-shadow: 0px -1px 6px rgba(0, 0, 0, 0.1),
+    inset 0px -4px 6px rgba(0, 0, 0, 0.042);
   margin-bottom: 1%;
   width: 80%;
   max-width: 450px;
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   padding: 10px;
-  position: fixed; /* Tornar a barra de entrada fixa */
-  bottom: 0; /* Fixar na parte inferior da tela */
+  position: fixed;
+  bottom: 0;
   left: 50%; /* Centralizar horizontalmente */
   transform: translateX(-50%); /* Centralizar horizontalmente */
 }
@@ -140,21 +133,21 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: #ffffff;
-  position: fixed; /* Tornar a barra de entrada fixa */
-  bottom: 0; /* Fixar na parte inferior da tela */
+  position: fixed;
+  bottom: 0;
   left: 50%; /* Centralizar horizontalmente */
   transform: translateX(-50%); /* Centralizar horizontalmente */
 }
 
-input[type="text"] {
+input[type='text'] {
   flex: 1;
   border: none;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   outline: none;
   font-size: 16px;
   color: #0f0f0f;
 }
 
-input[type="text"]::placeholder {
-  color: #A4A4A4;
+input[type='text']::placeholder {
+  color: #a4a4a4;
 }
