@@ -1,90 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
     <title>Chat Bot</title>
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="chat-wrapper">
-      <div class="chat-container">
-        <div class="navbar">
-          <a href="#">
-            <img
-              src="../seta.png"
-              alt="Seta para a esquerda"
-              style="width: 15px; height: 15px; vertical-align: middle" />
-          </a>
-          <a href="#" style="font-weight: bold">Tributouro</a>
+        <div class="chat-container">
+            <div class="navbar">
+                <a href="#">
+                    <img src="../seta.png" alt="Seta para a esquerda" style="width: 15px; height: 15px; vertical-align: middle" />
+                </a>
+                <a href="#" style="font-weight: bold">Tributouro</a>
+            </div>
+            <div class="chat" id="chat">
+
+            </div>
+            <div class="input-bar">
+                <input id="inputMessage" type="text" placeholder="Escreva uma mensagem para Tributouro ..." />
+                <button id="sendButton" style="border: none;">Enviar</button>
+            </div>
+            <div class="footer"></div>
         </div>
-        <div class="chat">
-          <div class="message-bot">
-            <div class="message-box">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum
-                corporis saepe accusamus ab suscipit molestiae officia quos vel
-                perferendis ipsam eos veniam consectetur, tenetur doloremque
-                fugiat, debitis impedit odio. Blanditiis. Lorem ipsum dolor sit,
-                amet consectetur adipisicing elit. Maiores, porro odit cumque
-                sapiente corrupti modi voluptatum architecto nam incidunt?
-                Repellat porro deleniti molestiae cum, omnis eveniet quia? A,
-                autem omnis.
-              </p>
-            </div>
-          </div>
-          <div class="message-client">
-            <div class="message-box">
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Nesciunt sunt sint debitis sapiente? Sapiente dolorum minus
-                ipsa, eius fuga, blanditiis, possimus cum molestias voluptatem
-                dolor corporis enim sed molestiae laboriosam?
-              </p>
-            </div>
-          </div>
-          <div class="message-bot">
-            <div class="message-box">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum
-                corporis saepe accusamus ab suscipit molestiae officia quos vel
-                perferendis ipsam eos veniam consectetur, tenetur doloremque
-                fugiat, debitis impedit odio. Blanditiis. Lorem ipsum dolor sit,
-                amet consectetur adipisicing elit. Maiores, porro odit cumque
-                sapiente corrupti modi voluptatum architecto nam incidunt?
-                Repellat porro deleniti molestiae cum, omnis eveniet quia? A,
-                autem omnis.
-              </p>
-            </div>
-          </div>
-          <div class="message-client">
-            <div class="message-box">
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Nesciunt sunt sint debitis sapiente? Sapiente dolorum minus
-                ipsa, eius fuga, blanditiis, possimus cum molestias voluptatem
-                dolor corporis enim sed molestiae laboriosam?
-              </p>
-            </div>
-          </div>
-          <div class="message-bot">
-            <div class="message-box">
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Nesciunt sunt sint debitis sapiente? Sapiente dolorum minus
-                ipsa, eius fuga, blanditiis, possimus cum molestias voluptatem
-                dolor corporis enim sed molestiae laboriosam?
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="input-bar">
-          <input
-            type="text"
-            placeholder="Escreva uma mensagem para Tributouro ..." />
-        </div>
-        <div class="footer"></div>
-      </div>
     </div>
-  </body>
+
+    <script>
+        const inputMessage = document.getElementById('inputMessage');
+        const sendButton = document.getElementById('sendButton');
+        const chat = document.getElementById('chat');
+
+        function sendMessage() {
+            if (inputMessage.value) {
+                const clientMessage = document.createElement('div');
+                clientMessage.className = 'message-client';
+                clientMessage.innerHTML = '<div class="message-box"><p>' + inputMessage.value + '</p></div>';
+                chat.appendChild(clientMessage);
+
+                const botMessage = document.createElement('div');
+                botMessage.className = 'message-bot';
+                botMessage.innerHTML = '<div class="message-box"><p>ok, recebi sua mensagem</p></div>';
+                chat.appendChild(botMessage);
+
+                inputMessage.value = '';
+            }
+        }
+
+        sendButton.addEventListener('click', sendMessage);
+        inputMessage.addEventListener('keyup', function(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+
+</body>
+
 </html>
