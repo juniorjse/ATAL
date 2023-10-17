@@ -86,7 +86,7 @@ body {
   border-radius: 10px;
   padding: 2px;
 }
-.message-bot {
+.message-client {
   box-shadow: inset 0px -4px 6px rgba(0, 0, 0, 0.152);
   border-radius: 20px 20px 0px 20px;
   background-color: #b64242;
@@ -99,7 +99,7 @@ body {
   margin-left: auto;
 }
 
-.message-client {
+.message-bot {
   box-shadow: inset 0px -4px 6px rgba(0, 0, 0, 0.067);
   border-radius: 20px 20px 20px 0px;
   align-self: flex-start;
