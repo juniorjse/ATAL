@@ -1,0 +1,371 @@
+CÂMARA DOS DEPUTADOS
+Centro de Documentação e Informação
+
+DECRETO-LEI Nº 5.452, DE 1º DE MAIO DE 1943
+
+
+Aprova a Consolidação das Leis do Trabalho.
+
+
+         O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 180 da Constituição, 
+
+         DECRETA: 
+
+
+         Art. 1º Fica aprovada a Consolidação das Leis do Trabalho, que a este decreto-lei acompanha, com as alterações por ela introduzidas na legislação vigente. 
+         Parágrafo único. Continuam em vigor as disposições legais transitórias ou de emergência, bem como as que não tenham aplicação em todo o território nacional. 
+         
+         Art. 2º O presente decreto-lei entrará em vigor em 10 de novembro de 1943. 
+         
+         Rio de Janeiro, 1 de maio de 1943, 122º da Independência e 55º da República. 
+         
+         GETÚLIO VARGAS. 
+         Alexandre Marcondes Filho. 
+
+
+CONSOLIDAÇÃO DAS LEIS DO TRABALHO
+
+TÍTULO I
+INTRODUÇÃO
+         
+         Art. 1º Esta Consolidação estatui as normas que regulam as relações individuais e coletivas de trabalho nela previstas.
+         
+         Art. 2º Considera-se empregador a empresa individual ou coletiva, que, assumindo os riscos de atividade econômica, admite, assalaria e dirige a prestação pessoal de serviços.
+         § 1º Equiparam-se ao empregador, para os efeitos exclusivos da relação de emprego, os profissionais liberais, as instituições de beneficência, as associações recreativas ou outras instituições sem fins lucrativos, que admitirem trabalhadores como empregados.
+         § 2º Sempre que uma ou mais empresas, tendo, embora, cada uma delas, personalidade jurídica própria, estiverem sob a direção, controle ou administração de outra, ou ainda quando, mesmo guardando cada uma sua autonomia, integrem grupo econômico, serão responsáveis solidariamente pelas obrigações decorrentes da relação de emprego. (Parágrafo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 3º Não caracteriza grupo econômico a mera identidade de sócios, sendo necessárias, para a configuração do grupo, a demonstração do interesse integrado, a efetiva comunhão de interesses e a atuação conjunta das empresas dele integrantes. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 3º Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário.
+         Parágrafo único. Não haverá distinções relativas à espécie de emprego e à condição de trabalhador, nem entre o trabalho intelectual, técnico e manual. (Vide art. 7º, XXXII, da Constituição Federal de 1988)
+         
+         Art. 4º Considera-se como de serviço efetivo o período em que o empregado esteja à disposição do empregador, aguardando ou executando ordens, salvo disposição especial expressamente consignada.
+         § 1º Computar-se-ão, na contagem de tempo de serviço, para efeito de indenização e estabilidade, os períodos em que o empregado estiver afastado do trabalho prestando serviço militar e por motivo de acidente do trabalho. (Parágrafo único acrescido pela Lei nº 4.072, de 16/6/1962, transformado em § 1º e com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 2º Por não se considerar tempo à disposição do empregador, não será computado como período extraordinário o que exceder a jornada normal, ainda que ultrapasse o limite de cinco minutos previsto no § 1º do art. 58 desta Consolidação, quando o empregado, por escolha própria, buscar proteção pessoal, em caso de insegurança nas vias públicas ou más condições climáticas, bem como adentrar ou permanecer nas dependências da empresa para exercer atividades particulares, entre outras: 
+         I - práticas religiosas; 
+         II - descanso; 
+         III - lazer; 
+         IV - estudo; 
+         V - alimentação; 
+         VI - atividades de relacionamento social; 
+         VII - higiene pessoal; 
+         VIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicado no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 5º A todo trabalho de igual valor corresponderá salário igual sem distinção de sexo. (Vide art. 7º, XXX, da Constituição Federal de 1988)
+         
+         Art. 6º Não se distingue entre o trabalho realizado no estabelecimento do empregador, o executado no domicílio do empregado e o realizado a distância, desde que estejam caracterizados os pressupostos da relação de emprego. (“Caput” do artigo com redação dada pela Lei nº 12.551, de 15/12/2011)
+         Parágrafo único. Os meios telemáticos e informatizados de comando, controle e supervisão se equiparam, para fins de subordinação jurídica, aos meios pessoais e diretos de comando, controle e supervisão do trabalho alheio. (Parágrafo único acrescido pela Lei nº 12.551, de 15/12/2011)
+         
+         Art. 7º Os preceitos constantes da presente Consolidação, salvo quando for, em cada caso, expressamente determinado em contrário, não se aplicam: (“Caput” do artigo com redação dada pelo Decreto-Lei nº 8.079, de 11/10/1945)
+         a) aos empregados domésticos, assim considerados, de um modo geral, os que prestam serviços de natureza não-econômica à pessoa ou à família, no âmbito residencial destas;
+         b) aos trabalhadores rurais, assim considerados aqueles que, exercendo funções diretamente ligadas à agricultura e à pecuária, não sejam empregados em atividades que, pelos métodos de execução dos respectivos trabalhos ou pela finalidade de suas operações, se classifiquem como industriais ou comerciais;
+         c) aos funcionários públicos da União, dos Estados e dos Municípios e aos respectivos extranumerários em serviço nas próprias repartições; (Alínea com redação dada pelo Decreto-Lei nº 8.079, de 11/10/1945)
+         d) aos servidores de autarquias paraestatais, desde que sujeitos a regime próprio de proteção ao trabalho que lhes assegure situação análoga à dos funcionários públicos; (Alínea com redação dada pelo Decreto-Lei nº 8.079, de 11/10/1945)
+         e) (Alínea suprimida pelo Decreto-Lei nº 8.079, de 11/10/1945)
+         f) às atividades de direção e assessoramento nos órgãos, institutos e fundações dos partidos, assim definidas em normas internas de organização partidária. (Alínea acrescida pela Lei nº 13.877, de 27/9/2019)
+         Parágrafo único. (Parágrafo único acrescido pelo Decreto-Lei nº 8.079, de 11/10/1945, e revogado pelo Decreto-Lei nº 8.249, de 29/11/1945)
+         
+         Art. 8º As autoridades administrativas e a Justiça do Trabalho, na falta de disposições legais ou contratuais, decidirão conforme o caso, pela jurisprudência, por analogia, por eqüidade e outros princípios e normas gerais de direito, principalmente do direito do trabalho, e, ainda, de acordo com os usos e costumes, o direito comparado, mas sempre de maneira que nenhum interesse de classe ou particular prevaleça sobre o interesse público.
+         § 1º O direito comum será fonte subsidiária do direito do trabalho. (Parágrafo único transformado em § 1º e com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 2º Súmulas e outros enunciados de jurisprudência editados pelo Tribunal Superior do Trabalho e pelos Tribunais Regionais do Trabalho não poderão restringir direitos legalmente previstos nem criar obrigações que não estejam previstas em lei. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 3º No exame de convenção coletiva ou acordo coletivo de trabalho, a Justiça do Trabalho analisará exclusivamente a conformidade dos elementos essenciais do negócio jurídico, respeitado o disposto no art. 104 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e balizará sua atuação pelo princípio da intervenção mínima na autonomia da vontade coletiva. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 9º Serão nulos de pleno direito os atos praticados com o objetivo de desvirtuar, impedir ou fraudar a aplicação dos preceitos contidos na presente Consolidação.
+         
+         Art. 10. Qualquer alteração na estrutura jurídica da empresa não afetará os direitos adquiridos por seus empregados.
+         
+         Art. 10-A. O sócio retirante responde subsidiariamente pelas obrigações trabalhistas da sociedade relativas ao período em que figurou como sócio, somente em ações ajuizadas até dois anos depois de averbada a modificação do contrato, observada a seguinte ordem de preferência: 
+         I - a empresa devedora; 
+         II - os sócios atuais; e 
+         III - os sócios retirantes. 
+         Parágrafo único. O sócio retirante responderá solidariamente com os demais quando ficar comprovada fraude na alteração societária decorrente da modificação do contrato. (Artigo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 11. A pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho.  (“Caput” do artigo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         I - (Inciso acrescido pela Lei nº 9.658, de 5/6/1998, e revogado pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         II - (Inciso acrescido pela Lei nº 9.658, de 5/6/1998, e revogado pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)  
+         § 1º O disposto neste artigo não se aplica às ações que tenham por objeto anotações para fins de prova junto à Previdência Social. (Parágrafo acrescido pela Lei nº 9.658, de 5/6/1998)
+         § 2º Tratando-se de pretensão que envolva pedido de prestações sucessivas decorrente de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito à parcela esteja também assegurado por preceito de lei. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 3º A interrupção da prescrição somente ocorrerá pelo ajuizamento de reclamação trabalhista, mesmo que em juízo incompetente, ainda que venha a ser extinta sem resolução do mérito, produzindo efeitos apenas em relação aos pedidos idênticos. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 11-A. Ocorre a prescrição intercorrente no processo do trabalho no prazo de dois anos. 
+         § 1º A fluência do prazo prescricional intercorrente inicia-se quando o exequente deixa de cumprir determinação judicial no curso da execução. 
+         § 2º A declaração da prescrição intercorrente pode ser requerida ou declarada de ofício em qualquer grau de jurisdição. (Artigo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 12. Os preceitos concernentes ao regime de seguro social são objeto de lei especial.
+         
+TÍTULO II
+DAS NORMAS GERAIS DE TUTELA DO TRABALHO
+
+CAPÍTULO I
+DA IDENTIFICAÇÃO PROFISSIONAL
+         
+Seção I
+Da Carteira de Trabalho e Previdência Social
+(Denominação da seção com redação dada pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 13. A Carteira de Trabalho e Previdência Social é obrigatória para o exercício de qualquer emprego, inclusive de natureza rural, ainda que em caráter temporário, e para o exercício por conta própria de atividade profissional remunerada. (“Caput” do artigo com redação dada pelo Decreto-Lei nº 926, de 10/10/1969)
+         § 1º O disposto neste artigo aplica-se, igualmente a quem: (Parágrafo único transformado em § 1º pelo Decreto-Lei nº 229, de 28/2/1967, com redação dada pelo Decreto-Lei nº 926, de 10/10/1969)
+         I - proprietário rural ou não, trabalhe individualmente ou em regime de economia familiar, assim entendido o trabalho dos membros da mesma família, indispensável à própria subsistência, e exercido em condições de mútua dependência e colaboração; (Inciso acrescido Decreto-Lei nº 926, de 10/10/1969)
+         II - em regime de economia familiar e sem empregado, explore área não excedente do módulo rural ou de outro limite que venha a ser fixado, para cada região, pelo Ministério do Trabalho e Previdência Social. (Inciso acrescido Decreto-Lei nº 926, de 10/10/1969)
+         § 2º A Carteira de Trabalho e Previdência Social (CTPS) obedecerá aos modelos que o Ministério da Economia adotar. (Parágrafo acrescido pelo Decreto-Lei nº 229, de 28/2/1967, e com redação dada pela Lei nº 13.874, de 20/9/2019)
+         § 3º (Parágrafo acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+         § 4º (Parágrafo acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+
+Seção II
+Da Emissão da Carteira de Trabalho e Previdência Social
+(Denominação da seção com redação dada pelo Decreto-Lei nº 926, de 10/10/1969)
+
+         Art. 14. A CTPS será emitida pelo Ministério da Economia preferencialmente em meio eletrônico. (“Caput” do artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         Parágrafo único. Excepcionalmente, a CTPS poderá ser emitida em meio físico, desde que: (Parágrafo único com redação dada pela Lei nº 13.874, de 20/9/2019)
+         I - nas unidades descentralizadas do Ministério da Economia que forem habilitadas para a emissão; (Inciso acrescido pela Lei nº 13.874, de 20/9/2019)
+         II - mediante convênio, por órgãos federais, estaduais e municipais da administração direta ou indireta; (Inciso acrescido pela Lei nº 13.874, de 20/9/2019)
+         III - mediante convênio com serviços notariais e de registro, sem custos para a administração, garantidas as condições de segurança das informações. (Inciso acrescido pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 15. Os procedimentos para emissão da CTPS ao interessado serão estabelecidos pelo Ministério da Economia em regulamento próprio, privilegiada a emissão em formato eletrônico. (Artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 16. A CTPS terá como identificação única do empregado o número de inscrição no Cadastro de Pessoas Físicas (CPF). (“Caput” do artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         I - (Inciso acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+         II - (Inciso acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+         III - (Inciso acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+         IV - (Inciso acrescido pelo Decreto-Lei nº 926, de 10/10/1969, e revogado pela Lei nº 13.874, de 20/9/2019)
+         Parágrafo único. (Parágrafo único acrescido pela Lei nº 8.260, de 12/12/1991, e revogado pela Lei nº 13.874, de 20/9/2019)
+         a) (Alínea acrescida pela Lei nº 8.260, de 12/12/1991, e revogada pela Lei nº 13.874, de 20/9/2019)
+         b) (Alínea acrescida pela Lei nº 8.260, de 12/12/1991, e revogada pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 17. (Revogado pela Lei nº 13.874, de 20/9/2019) 
+         
+         Art. 18. (Revogado pela Lei nº 7.855, de 24/10/1989)
+         
+         Art. 19. (Revogado pela Lei nº 7.855, de 24/10/1989)
+         
+         Art. 20. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 21. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Arts. 22 a 24. (Revogados pelo Decreto-Lei nº 926, de 10/10/1969) 
+          
+Seção III
+Da Entrega das Carteiras de Trabalho e Previdência Social
+
+         Art. 25. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 26. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 27. (Revogado pela Lei nº 7.855, de 24/10/1989) 
+         
+         Art. 28. (Revogado pela Lei nº 7.855, de 24/10/1989)
+
+Seção IV
+Das Anotações
+
+         Art. 29. O empregador terá o prazo de 5 (cinco) dias úteis para anotar na CTPS, em relação aos trabalhadores que admitir, a data de admissão, a remuneração e as condições especiais, se houver, facultada a adoção de sistema manual, mecânico ou eletrônico, conforme instruções a serem expedidas pelo Ministério da Economia. (“Caput” do artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         § 1º As anotações concernentes à remuneração devem especificar o salário, qualquer que seja sua forma de pagamento, seja ele em dinheiro ou em utilidades, bem como a estimativa da gorjeta. (Parágrafo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967)
+         § 2º As anotações na Carteira de Trabalho e Previdência Social serão feitas: (Parágrafo com redação dada pela Lei nº 7.855, de 24/10/1989)
+         a) na data-base; (Alínea acrescida pela Lei nº 7.855, de 24/10/1989)
+         b) a qualquer tempo, por solicitação do trabalhador; (Alínea acrescida pela Lei nº 7.855, de 24/10/1989)
+         c) no caso de rescisão contratual; ou (Alínea acrescida pela Lei nº 7.855, de 24/10/1989)
+         d) necessidade de comprovação perante a Previdência Social. (Alínea acrescida pela Lei nº 7.855, de 24/10/1989)
+         § 3º A falta de cumprimento pelo empregador do disposto neste artigo acarretará a lavratura do auto de infração, pelo Fiscal do Trabalho, que deverá, de ofício, comunicar a falta de anotação ao órgão competente, para o fim de instaurar o processo de anotação. (Parágrafo acrescido pelo Decreto-Lei nº 229, de 28/2/1967, com redação dada pela Lei nº 7.855, de 24/10/1989)
+         § 4º É vedado ao empregador efetuar anotações desabonadoras à conduta do empregado em sua Carteira de Trabalho e Previdência Social. (Parágrafo acrescido pela Lei nº 10.270, de 29/8/2001)
+         § 5º O descumprimento do disposto no § 4º deste artigo submeterá o empregador ao pagamento de multa prevista no art. 52 deste Capítulo. (Parágrafo acrescido pela Lei nº 10.270, de 29/8/2001)
+         § 6º A comunicação pelo trabalhador do número de inscrição no CPF ao empregador equivale à apresentação da CTPS em meio digital, dispensado o empregador da emissão de recibo. (Parágrafo acrescido pela Lei nº 13.874, de 20/9/2019)
+         § 7º Os registros eletrônicos gerados pelo empregador nos sistemas informatizados da CTPS em meio digital equivalem às anotações a que se refere esta Lei. (Parágrafo acrescido pela Lei nº 13.874, de 20/9/2019)
+         § 8º O trabalhador deverá ter acesso às informações da sua CTPS no prazo de até 48 (quarenta e oito) horas a partir de sua anotação. (Parágrafo acrescido pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 29-A. O empregador que infringir o disposto no caput e no § 1º do art. 29 desta Consolidação ficará sujeito a multa no valor de R$ 3.000,00 (três mil reais) por empregado prejudicado, acrescido de igual valor em cada reincidência.
+         § 1º No caso de microempresa ou de empresa de pequeno porte, o valor final da multa aplicada será de R$ 800,00 (oitocentos reais) por empregado prejudicado.
+         § 2º A infração de que trata o caput deste artigo constitui exceção ao critério da dupla visita. (Artigo acrescido pela Medida Provisória nº 1.107, de 17/3/2022, convertida na Lei nº 14.438, de 24/8/2022)
+         
+         Art. 29-B. Na hipótese de não serem realizadas as anotações a que se refere o § 2º do art. 29 desta Consolidação, o empregador ficará sujeito a multa no valor de R$ 600,00 (seiscentos reais) por empregado prejudicado. (Artigo acrescido pela Medida Provisória nº 1.107, de 17/3/2022, convertida na Lei nº 14.438, de 24/8/2022)
+         
+         Art. 30. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 31. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 32. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 33. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 34. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 35. (Revogado pela Lei nº 6.533, de 24/5/1978)
+
+Seção V
+Das Reclamações por Falta ou Recusa de Anotação
+
+         Art. 36. Recusando-se a empresa a fazer as anotações a que se refere o art. 29 ou a devolver a Carteira de Trabalho e Previdência Social recebida, poderá o empregado comparecer, pessoalmente ou por intermédio de seu sindicato, perante a Delegacia Regional ou órgão autorizado, para apresentar reclamação. (Artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967; expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 37. No caso do art. 36, lavrado o termo de reclamação, determinar-se-á a realização de diligência para instrução do feito, observado, se for o caso, o disposto no § 2º do art. 29, notificando-se posteriormente o reclamado por carta registrada, caso persista a recusa, para que, em dia e hora previamente designados, venha prestar esclarecimentos ou efetuar as devidas anotações na Carteira de Trabalho e Previdência Social ou sua entrega.
+         Parágrafo único. Não comparecendo o reclamado, lavrar-se-á termo de ausência, sendo considerado revel e confesso sobre os termos da reclamação feita, devendo as anotações serem efetuadas por despacho da autoridade que tenha processado a reclamação. (Artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967; expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 38. Comparecendo o empregador e recusando-se a fazer as anotações reclamadas, será lavrado um termo de comparecimento, que deverá conter, entre outras indicações, o lugar, o dia e hora de sua lavratura, o nome e a residência do empregador, assegurando-se-lhe o prazo de 48 (quarenta e oito) horas, a contar do termo, para apresentar defesa.
+         Parágrafo único. Findo o prazo para a defesa, subirá o processo à autoridade administrativa de primeira instância, para se ordenarem diligências, que completem a instrução do feito, ou para julgamento, se o caso estiver suficientemente esclarecido.
+         
+         Art. 39. Verificando-se que as alegações feitas pelo reclamado versam sobre a não existência de relação de emprego, ou sendo impossível verificar essa condição pelos meios administrativos, será o processo encaminhado à Justiça do Trabalho, ficando, nesse caso, sobrestado o julgamento do auto de infração que houver sido lavrado. (“Caput” do artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967)
+         § 1º Se não houver acordo, a Junta de Conciliação e Julgamento, em sua sentença ordenará que a Secretaria efetue as devidas anotações uma vez transitada em julgado, e faça a comunicação à autoridade competente para o fim de aplicar a multa cabível. (Parágrafo acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         § 2º Igual procedimento observar-se-á no caso de processo trabalhista de qualquer natureza, quando for verificada a falta de anotações na Carteira de Trabalho e Previdência Social, devendo o Juiz, nesta hipótese, mandar proceder, desde logo, àquelas sobre as quais não houver controvérsia. (Parágrafo acrescido pelo Decreto-Lei nº 229, de 28/2/1967; expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+
+Seção VI
+Do Valor das Anotações
+
+         Art. 40. A CTPS regularmente emitida e anotada servirá de prova: (“Caput” do artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         I - nos casos de dissídio na Justiça do Trabalho entre a empresa e o empregado por motivo de salário, férias, ou tempo de serviço; (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         II - (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967, e revogado pela Lei nº 13.874, de 20/9/2019)
+         III - para cálculo de indenização por acidente do trabalho ou moléstia profissional. (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+
+Seção VII
+Dos Livros de Registro de Empregados
+
+         Art. 41. Em todas as atividades será obrigatório para o empregador o registro dos respectivos trabalhadores, podendo ser adotados livros, fichas ou sistema eletrônico, conforme instruções a serem expedidas pelo Ministério do Trabalho. 
+         Parágrafo único. Além da qualificação civil ou profissional de cada trabalhador, deverão ser anotados todos os dados relativos à sua admissão no emprego, duração e efetividade do trabalho, a férias, acidentes e demais circunstâncias que interessem à proteção do trabalhador. (Artigo com redação dada pela Lei nº 7.855, de 24/10/1989)
+         
+         Art. 42. (Revogado pela Lei nº 10.243, de 19/6/2001)
+         
+         Art. 43. (Revogado pela Lei nº 7.855, de 24/10/1989)
+         
+         Art. 44. (Revogado pela Lei nº 7.855, de 24/10/1989)
+         
+         Art. 45. (Revogado pelo Decreto-Lei nº 229, de 28/2/1967)
+         
+         Art. 46. (Revogado pelo Decreto-Lei nº 229, de 28/2/1967)
+         
+         Art. 47. O empregador que mantiver empregado não registrado nos termos do art. 41 desta Consolidação ficará sujeito a multa no valor de R$ 3.000,00 (três mil reais) por empregado não registrado, acrescido de igual valor em cada reincidência. (“Caput” do artigo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 1º Especificamente quanto à infração a que se refere o caput deste artigo, o valor final da multa aplicada será de R$ 800,00 (oitocentos reais) por empregado não registrado, quando se tratar de microempresa ou empresa de pequeno porte. (Parágrafo único acrescido pelo Decreto-Lei nº 229, de 28/2/1967, transformado em § 1º e com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 2º A infração de que trata o caput deste artigo constitui exceção ao critério da dupla visita. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 47-A. Na hipótese de não serem informados os dados a que se refere o parágrafo único do art. 41 desta Consolidação, o empregador ficará sujeito à multa de R$ 600,00 (seiscentos reais) por empregado prejudicado. (Artigo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 48. As multas previstas nesta Seção serão aplicadas pela autoridade de primeira instância no Distrito Federal, e pelas autoridades regionais do Ministério do Trabalho, Indústria e Comércio, nos Estados e no Território do Acre.
+         
+Seção VIII
+Das Penalidades
+
+         Art. 49. Para os efeitos da emissão, substituição ou anotação de Carteiras de Trabalho e Previdência Social, considerar-se-á crime de falsidade, com as penalidades previstas no art. 299 do Código Penal: (“Caput” do artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967; expressão “carteiras profissionais” substituída por “Carteiras de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         I - fazer, no todo ou em parte, qualquer documento falso ou alterar o verdadeiro; (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         II - afirmar, falsamente a sua própria identidade, filiação, lugar de nascimento, residência, profissão ou estado civil e beneficiários, ou atestar os de outra pessoa; (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         III - servir-se de documentos, por qualquer forma falsificados; (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         IV - falsificar, fabricando ou alterando, ou vender, usar ou possuir Carteiras de Trabalho e Previdência Social assim alteradas; (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967)
+         V - anotar dolosamente em Carteira de Trabalho e Previdência Social ou registro de empregado, ou confessar ou declarar em juízo ou fora dele, data de admissão em emprego diversa da verdadeira. (Inciso acrescido pelo Decreto-Lei nº 229, de 28/2/1967; expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 50. Comprovando-se falsidade, quer nas declarações para emissão de Carteira de Trabalho e Previdência Social, quer nas respectivas anotações, o fato será levado ao conhecimento da autoridade que houver emitido a carteira, para fins de direito. (Expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 51. Incorrerá em multa de valor igual a 3 (três) vezes o salário-mínimo regional aquele que, comerciante ou não, vender ou expuser à venda qualquer tipo de carteira igual ou semelhante ao tipo oficialmente adotado. (Artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967)
+         
+         Art. 52. O extravio ou inutilização da Carteira de Trabalho e Previdência Social por culpa da empresa sujeitará esta à multa de valor igual à metade do salário-mínimo regional. (Artigo com redação dada pelo Decreto-Lei nº 926, de 10/10/1969; expressão “carteira profissional” substituída por “Carteira de Trabalho e Previdência Social” pelo Decreto-Lei nº 926, de 10/10/1969)
+         
+         Art. 53. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 54. (Revogado pela Lei nº 13.874, de 20/9/2019)
+         
+         Art. 55. Incorrerá na multa de valor igual a 1 (um) salário-mínimo regional a empresa que infringir o art. 13 e seus parágrafos. (Artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967)
+         
+         Art. 56. (Revogado pela Lei nº 13.874, de 20/9/2019)
+
+CAPÍTULO II
+DA DURAÇÃO DO TRABALHO
+
+Seção I
+Disposição Preliminar
+
+         Art. 57. Os preceitos deste Capítulo aplicam-se a todas as atividades, salvo as expressamente excluídas, constituindo exceções as disposições especiais, concernentes estritamente a peculiaridades profissionais constantes do Capítulo I do Título III.
+
+Seção II
+Da Jornada de Trabalho
+
+         Art. 58. A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+         § 1º Não serão descontadas nem computadas como jornada extraordinária as variações de horário no registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. (Parágrafo acrescido pela Lei nº 10.243, de 19/6/2001)
+         § 2º O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador. (Parágrafo acrescido pela Lei nº 10.243, de 19/6/2001, com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 3º (Parágrafo acrescido pela Lei Complementar nº 123, de 14/12/2006, e revogado pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 58-A. Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a trinta horas semanais, sem a possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração não exceda a vinte e seis horas semanais, com a possibilidade de acréscimo de até seis horas suplementares semanais. (“Caput” do artigo acrescido pela Medida Provisória nº 2.164-41, de 24/8/2001, com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 1º O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral. (Parágrafo acrescido pela Medida Provisória nº 2.164-41, de 24/8/2001)
+         § 2º Para os atuais empregados, a adoção do regime de tempo parcial será feita mediante opção manifestada perante a empresa, na forma prevista em instrumento decorrente de negociação coletiva. (Parágrafo acrescido pela Medida Provisória nº 2.164-41, de 24/8/2001) 
+         § 3º As horas suplementares à duração do trabalho semanal normal serão pagas com o acréscimo de 50% (cinquenta por cento) sobre o salário-hora normal. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 4º Na hipótese de o contrato de trabalho em regime de tempo parcial ser estabelecido em número inferior a vinte e seis horas semanais, as horas suplementares a este quantitativo serão consideradas horas extras para fins do pagamento estipulado no § 3º, estando também limitadas a seis horas suplementares semanais. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 5º As horas suplementares da jornada de trabalho normal poderão ser compensadas diretamente até a semana imediatamente posterior à da sua execução, devendo ser feita a sua quitação na folha de pagamento do mês subsequente, caso não sejam compensadas. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 6º É facultado ao empregado contratado sob regime de tempo parcial converter um terço do período de férias a que tiver direito em abono pecuniário. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 7º As férias do regime de tempo parcial são regidas pelo disposto no art. 130 desta Consolidação. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 59. A duração diária do trabalho poderá ser acrescida de horas extras, em número não excedente de duas, por acordo individual, convenção coletiva ou acordo coletivo de trabalho. (“Caput” do artigo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 1º A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal. (Parágrafo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)   
+         § 2º Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Parágrafo com redação dada pela Medida Provisória nº 2.164-41, de 24/8/2001) 
+         § 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2º e 5º deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Parágrafo acrescido pela Lei nº 9.601, de 21/1/1998,  com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 4º (Parágrafo acrescido pela Medida Provisória nº 2.164-41, de 24/8/2001, e revogado pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 5º O banco de horas de que trata o § 2º deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 6º É lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês. (Parágrafo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 59-A. Em exceção ao disposto no art. 59 desta Consolidação, é facultado às partes, mediante acordo individual escrito, convenção coletiva ou acordo coletivo de trabalho, estabelecer horário de trabalho de doze horas seguidas por trinta e seis horas ininterruptas de descanso, observados ou indenizados os intervalos para repouso e alimentação. 
+         Parágrafo único. A remuneração mensal pactuada pelo horário previsto no caput deste artigo abrange os pagamentos devidos pelo descanso semanal remunerado e pelo descanso em feriados, e serão considerados compensados os feriados e as prorrogações de trabalho noturno, quando houver, de que tratam o art. 70 e o § 5º do art. 73 desta Consolidação. (Artigo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 59-B. O não atendimento das exigências legais para compensação de jornada, inclusive quando estabelecida mediante acordo tácito, não implica a repetição do pagamento das horas excedentes à jornada normal diária se não ultrapassada a duração máxima semanal, sendo devido apenas o respectivo adicional. 
+         Parágrafo único. A prestação de horas extras habituais não descaracteriza o acordo de compensação de jornada e o banco de horas. (Artigo acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 60. Nas atividades insalubres, assim consideradas as constantes dos quadros mencionados no capítulo "Da Segurança e da Medicina do Trabalho", ou que neles venham a ser acrescidas por ato do Ministro do Trabalho, Indústria e Comércio, quaisquer prorrogações só poderão ser acordadas mediante licença prévia das autoridades competentes em matéria de higiene do trabalho, as quais, para esse efeito, procederão aos necessários exames locais e à verificação dos métodos e processos de trabalho, quer diretamente, quer por intermédio de autoridades sanitárias federais, estaduais e municipais, com quem entrarão em entendimento para tal fim. (Expressão "Higiene e Segurança do Trabalho" substituída por “Da Segurança e da Medicina do Trabalho” pela Lei nº 6.514, de 22/12/1977) (Vide art. 7º, XXXIII, da Constituição Federal de 1988)
+         Parágrafo único. Excetuam-se da exigência de licença prévia as jornadas de doze horas de trabalho por trinta e seis horas ininterruptas de descanso. (Parágrafo único acrescido pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         
+         Art. 61. Ocorrendo necessidade imperiosa, poderá a duração do trabalho exceder do limite legal ou convencionado, seja para fazer face a motivo de força maior, seja para atender à realização ou conclusão de serviços inadiáveis ou cuja inexecução possa acarretar prejuízo manifesto. 
+         § 1º O excesso, nos casos deste artigo, pode ser exigido independentemente de convenção coletiva ou acordo coletivo de trabalho. (Parágrafo com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 2º Nos casos de excesso de horário por motivo de força maior, a remuneração da hora excedente não será inferior à da hora normal. Nos demais casos de excesso previstos neste artigo, a remuneração será, pelo menos, 25% (vinte e cinco por cento) superior à da hora normal, e o trabalho não poderá exceder de 12 (doze) horas, desde que a lei não fixe expressamente outro limite. (Vide art. 7º, XVI, da Constituição Federal de 1988)
+         § 3º Sempre que ocorrer interrupção do trabalho, resultante de causas acidentais, ou de força maior, que determinem a impossibilidade de sua realização, a duração do trabalho poderá ser prorrogada pelo tempo necessário até o máximo de 2 (duas) horas, durante o número de dias indispensáveis à recuperação do tempo perdido, desde que não exceda de 10 (dez) horas diárias, em período não superior a 45 (quarenta e cinco) dias por ano, sujeita essa recuperação à prévia autorização da autoridade competente.
+         
+         Art. 62. Não são abrangidos pelo regime previsto neste capítulo: (“Caput” do artigo com redação dada pela Lei nº 8.966, de 27/12/1994)
+         I - os empregados que exercem atividade externa incompatível com a fixação de horário de trabalho, devendo tal condição ser anotada na Carteira de Trabalho e Previdência Social e no registro de empregados; (Inciso acrescido pela Lei nº 8.966, de 27/12/1994)
+         II - os gerentes, assim considerados os exercentes de cargos de gestão, aos quais se equiparam, para efeito do disposto neste artigo, os diretores e chefes de departamento ou filial; (Inciso acrescido pela Lei nº 8.966, de 27/12/1994) 
+         III - os empregados em regime de teletrabalho que prestam serviço por produção ou tarefa. (Inciso acrescido pela Lei nº 13.467, de 13/7/2017, e com nova redação dada pela Medida Provisória nº 1.108, de 25/3/2022, convertida na Lei nº 14.442, de 2/9/2022)
+         Parágrafo único. O regime previsto neste capítulo será aplicável aos empregados mencionados no inciso II deste artigo, quando o salário do cargo de confiança, compreendendo a gratificação de função, se houver, for inferior ao valor do respectivo salário efetivo acrescido de 40% (quarenta por cento). (Parágrafo único acrescido pela Lei nº 8.966, de 27/12/1994)
+         
+         Art. 63. Não haverá distinção entre empregados e interessados, e a participação em lucros e comissões, salvo em lucros de caráter social, não exclui o participante do regime deste Capítulo.
+         
+         Art. 64. O salário-hora normal, no caso de empregado mensalista, será obtido dividindo-se o salário mensal correspondente à duração do trabalho, a que se refere o art. 58, por 30 (trinta) vezes o número de horas dessa duração.
+         Parágrafo único. Sendo o número de dias inferiores a 30 (trinta), adotar-se-á para o cálculo, em lugar desse número, o de dias de trabalho por mês.
+         
+         Art. 65. No caso do empregado diarista, o salário-hora normal será obtido dividindo-se o salário diário correspondente à duração do trabalho, estabelecido no art. 58, pelo número de horas de efetivo trabalho.
+
+Seção III
+Dos Períodos de Descanso
+
+         Art. 66. Entre 2 (duas) jornadas de trabalho haverá um período mínimo de 11 (onze) horas consecutivas para descanso.
+         
+         Art. 67. Será assegurado a todo empregado um descanso semanal de 24 (vinte e quatro) horas consecutivas, o qual, salvo motivo de conveniência pública ou necessidade imperiosa do serviço, deverá coincidir com o domingo, no todo ou em parte.
+         Parágrafo único. Nos serviços que exijam trabalho aos domingos, com exceção quanto aos elencos teatrais, será estabelecida escala de revezamento, mensalmente organizada e constando do quadro sujeito à fiscalização.
+         
+         Art. 68. O trabalho em domingo, seja total ou parcial, na forma do art. 67, será sempre subordinado à permissão prévia da autoridade competente em matéria de trabalho.
+         Parágrafo único. A permissão será concedida a título permanente nas atividades que, por sua natureza ou pela conveniência pública, devem ser exercidas aos domingos, cabendo ao Ministro do Trabalho, Indústria e Comércio expedir instruções em que sejam especificadas tais atividades. Nos demais casos, ela será dada sob forma transitória, com discriminação do período autorizado, o qual, de cada vez, não excederá de 60 (sessenta) dias.
+         
+         Art. 69. Na regulamentação do funcionamento de atividades sujeitas ao regime deste Capítulo, os municípios atenderão aos preceitos nele estabelecidos, e as regras que venham a fixar não poderão contrariar tais preceitos nem as instruções que, para seu cumprimento, forem expedidas pelas autoridades competentes em matéria de trabalho.
+         
+         Art. 70. Salvo o disposto nos artigos 68 e 69, é vedado o trabalho em dias feriados nacionais e feriados religiosos, nos termos da legislação própria. (Artigo com redação dada pelo Decreto-Lei nº 229, de 28/2/1967)
+         
+         Art. 71. Em qualquer trabalho contínuo, cuja duração exceda de 6 (seis) horas, é obrigatória a concessão de um intervalo para repouso ou alimentação, o qual será, no mínimo, de 1 (uma) hora e, salvo acordo escrito ou contrato coletivo em contrário, não poderá exceder de 2 (duas) horas.
+         § 1º Não excedendo de 6 (seis) horas o trabalho, será, entretanto, obrigatório um intervalo de 15 (quinze) minutos quando a duração ultrapassar 4 (quatro) horas.
+         § 2º Os intervalos de descanso não serão computados na duração do trabalho.
+         § 3º O limite mínimo de 1 (uma) hora para repouso ou refeição poderá ser reduzido por ato do Ministro do Trabalho, Indústria e Comércio, quando ouvida o Serviço de Alimentação de Previdência Social, se verificar que o estabelecimento atende integralmente às exigências concernentes à organização dos refeitórios, e quando os respectivos empregados não estiverem sob regime de trabalho prorrogado a horas suplementares.
+         § 4º A não concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho. (Parágrafo acrescido pela Lei nº 8.923, de 27/7/1994, com redação dada pela Lei nº 13.467, de 13/7/2017, publicada no DOU de 14/7/2017, em vigor 120 dias após a publicação)
+         § 5º O intervalo expresso no caput poderá ser reduzido e/ou fracionado, e aquele estabelecido no § 1º poderá ser fracionado, quando compreendidos entre o término da primeira hora trabalhada e o início da última hora trabalhada, desde que previsto em convenção ou acordo coletivo de trabalho, ante a natureza do serviço e em virtude das condições especiais de trabalho a que são submetidos estritamente os motoristas, cobradores, fiscalização de campo e afins nos serviços de operação de veículos rodoviários, empregados no setor de transporte coletivo de passageiros, mantida a remuneração e concedidos intervalos para descanso menores ao final de cada viagem. (Parágrafo acrescido pela Lei nº 12.619, de 30/4/2012,  com redação dada pela Lei nº 13.103, de 2/3/2015, publicada no DOU de 3/3/2015, em vigor 45 dias após a publicação)
+         
+         Art. 72. Nos serviços permanentes de mecanografia (datilografia, escrituração ou cálculo), a cada período de 90 (noventa) minutos de trabalho consecutivo corresponderá um repouso de 10 (dez) minutos não deduzidos da duração normal de trabalho.
+
+Seção IV
+Do Trabalho Noturno
+
+         Art. 73. Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior à do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20% (vinte por cento), pelo menos, sobre a hora diurna. (“Caput” do artigo com redação dada pelo Decreto-Lei nº 9.666, de 28/8/1946) (Vide art. 7º, XVI, da Constituição Federal de 1988)
+         § 1º A hora do trabalho noturno será computada como de 52 (cinqüenta e dois) minutos e 30 (trinta) segundos. (Parágrafo com redação dada pelo Decreto-Lei nº 9.666, de 28/8/1946)
+         § 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 (vinte duas) horas de um dia e as 5 (cinco) horas do dia seguinte. (Parágrafo com redação dada pelo Decreto-Lei nº 9.666, de 28/8/1946) (Vide art. 7º da Lei nº 5.889, de 8/6/1973)
+         § 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem. (Parágrafo acrescido pelo Decreto-Lei nº 9.666, de 28/8/1946)
+         § 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos. (Primitivo § 3º renumerado e com redação dada pelo Decreto-Lei nº 9.666, de 28/8/1946)
+         § 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Primitivo § 4º renumerado e com redação dada pelo Decreto-Lei nº 9.666, de 28/8/1946)
+
+Seção V
+Do Quadro de Horário
+
+         Art. 74. O horário de trabalho será anotado em registro de empregados. (“Caput” do artigo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         § 1º (Revogado pela Lei nº 13.874, de 20/9/2019)
+         § 2º Para os estabelecimentos com mais de 20 (vinte) trabalhadores será obrigatória a anotação da hora de entrada e de saída, em registro manual, mecânico ou eletrônico, conforme instruções expedidas pela Secretaria Especial de Previdência e Trabalho do Ministério da Economia, permitida a pré-assinalação do período de repouso. (Parágrafo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         § 3º Se o trabalho for executado fora do estabelecimento, o horário dos empregados constará do registro manual, mecânico ou eletrônico em seu poder, sem prejuízo do que dispõe o caput deste artigo. (Parágrafo com redação dada pela Lei nº 13.874, de 20/9/2019)
+         § 4º Fica permitida a utilização de registro de ponto por exceção à jornada regular de trabalho, mediante acordo individual escrito, convenção coletiva ou acordo coletivo de trabalho. (Parágrafo acrescido pela Lei nº 13.874, de 20/9/2019)
+
+Seção VI
+Das Penalidades
+
+         Art. 75. Os infratores dos dispositivos do presente capítulo incorrerão na multa de cinquenta a cinco mil cruzeiros, segundo a natureza da infração, sua extensão e a intenção de quem a praticou, aplicada em dobro no caso de reincidência, e oposição à fiscalização ou desacato à autoridade. 
+         Parágrafo único. São competentes para impor penalidades, no Distrito Federal, a autoridade de 1ª instância do Departamento Nacional do Trabalho e, nos Estados e no Território do Acre, as autoridades regionais do Ministério do Trabalho, Indústria e Comércio.
+
